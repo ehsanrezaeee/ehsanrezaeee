@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ehsan</h1>
-<h3 align="center">Simple frontend developer from Iran</h3>
+<h3 align="center">Javascript developer</h3>
 
-- 🌱 I’m currently learning **Vue 3.x js - Typescript - Next js**
+- 🌱 I’m currently learning **Angular- Typescript - Next js - Node js**
 
 - 📫 How to reach me **ehsanrezaee@hotmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1qPyN3rVoiUd4nSs3bX4nSEc-z8RTCB5c/view
+- 📄 Know about my experiences https://ehsanrezaeeportfolio.netlify.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
